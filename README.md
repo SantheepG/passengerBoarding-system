@@ -10,4 +10,4 @@ A cruise ship boarding system with a command line interface
 4. Desired passengers can be deleted easily
 5. Data can be stored to an external file
 6. Passenger names can be viewed in alphabetic order using Quick sort algorithm
-7. Cabin no can be viewed based on name search
+7. Cabin number of a person can be viewed based on name search
